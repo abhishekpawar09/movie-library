@@ -1,4 +1,4 @@
-```
+
 Movie Library (React + Vite + Redux)
 
 A simple movie browsing app where users can:
@@ -11,7 +11,7 @@ A simple movie browsing app where users can:
 - Enjoy a clean, modern UI with TailwindCSS.
 
 
-
+```
 Setup & Run Locally
 1. Clone the repo
     git clone https://github.com/abhishekpawar09/movie-library.git
@@ -31,7 +31,7 @@ Setup & Run Locally
     Visit: http://localhost:5173
 
 
-
+```
 
 Running Tests
 
@@ -55,7 +55,7 @@ Assumptions & Design Choices
 - Error Handling: Simple loading/error states for API calls.
 - Scalability: Components like MovieCard and SearchBar are reusable and modular.
 
-
+```
 
 📂 Project Structure:
 
