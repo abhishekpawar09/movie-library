@@ -1,3 +1,4 @@
+```
 Movie Library (React + Vite + Redux)
 
 A simple movie browsing app where users can:
@@ -70,5 +71,5 @@ movie-library/
 ├── .env               # TMDB key
 ├── package.json
 └── README.md
-
+```
 
